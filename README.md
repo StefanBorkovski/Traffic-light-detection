@@ -4,7 +4,7 @@ Here a transfer learning solution for traffic light detection is presented. It u
 
 <img src="https://i.imgur.com/OWsCxIG.png" width="700" height="400">
 
-This work is done as a project for faculty subject "Digital image processing", March 2019.
+▸ This work is done as a project for faculty subject "Digital image processing", March 2019.
 
 ## Files explanation:
 ### “custom.py”
