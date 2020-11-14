@@ -4,6 +4,8 @@ Here a transfer learning solution for traffic light detection is presented. It u
 
 <img src="https://i.imgur.com/OWsCxIG.png" width="700" height="400">
 
+This work is done as a project for faculty subject "Digital image processing", March 2019.
+
 ## Files explanation:
 ### “custom.py”
 >	This code is used for training a new model from pre-trained weights or resume training a model that has been trained earlier. The instructions for training are given in the first section of the code.
